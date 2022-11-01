@@ -3,8 +3,12 @@
 035pratheeksha/035pratheeksha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Pratheeksha R</h1>
-<h3 align="center">An enthusiastic and highly motivated individual in search of great opportunities for efficient learning and self development.</h3>
+<h1 align="center">Hey!! 👋, I'm Pratheeksha R</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=22&duration=8000"/></a>
+</p>  
+
+<h3 align="center">An enthusiastic and highly motivated individual in search of great opportunities for efficient learning and self development.I love contributing to different Open Source projects as they provide a unique insight into different tech stacks and help in making the tech community better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=035pratheeksha&label=Profile%20views&color=0e75b6&style=flat" alt="035pratheeksha" /> </p>
 
