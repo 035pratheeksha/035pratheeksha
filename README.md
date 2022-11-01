@@ -10,7 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=035pratheeksha" alt="035pratheeksha" /></a> </p>
 
-- 🌱 I’m currently learning B.E--Information Science
+- 🌱 I’m currently persuing B.E--Information Science at AJIET,Mangalore.
+- 🔭 I’m currently working on Tic-tac-toe
+- 💬 Ask me about *C,C++,JAVA*
+- 👨‍💻 All of my projects are available at **https://github.com/035pratheeksha**
 - 📫 How to reach me **pratheekshar333@gmail.com**
 
 
